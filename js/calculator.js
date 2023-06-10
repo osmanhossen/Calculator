@@ -1,6 +1,6 @@
 /* ----- Calculator ----- */
 
-alert("এপস টি যদি ভাল লাগলে কমেন্ট এ জানান!!!😊😊");
+alert("WelCome, My Website!!!😊😊");
 function insert(num) {
   let a = document.form.textview;
 
